@@ -1,8 +1,8 @@
 import urllib.request,json
 from .models import Movie
 # from .import main
-import urllib.request
-import json
+# import urllib.request
+# import json
 
 
 # Movie = movie.Movie
